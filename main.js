@@ -1,3 +1,8 @@
+//I don't know why this code is open-sources. God Save Us. Thanks for joyhyunki and survibo!
+//Website link: yk-tiger.github.io/player
+
+let my_happines = 999999999999999999
+
 document.addEventListener('DOMContentLoaded', () => {
     const playingSounds = new Set();
     const buttons = document.querySelectorAll('[data-sound]');
